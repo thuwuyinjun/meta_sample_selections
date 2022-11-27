@@ -1,0 +1,16 @@
+kmeans-pytorch
+torch
+tqdm
+torchvision
+higher
+pytorch-pretrained-bert
+termcolor
+scikit-learn
+texar-pytorch
+tensorflow
+pytorch_transformers
+torchtext
+spacy
+nltk
+pandas
+apricot-select
